@@ -3,11 +3,11 @@ This Repo has Software Testing Projects.
 
 Login Page Requirements for VWO Application.                                                                                  
 1. Functional Requirements                                                                                                    
-User Authentication:    Users must log in using a valid email and password.                                                  Error Handling:          Incorrect credentials must display an appropriate error message.                                    Forgot Password:          A "Forgot Password" option should allow users to reset their password via email.
-Session Management:      Users should remain logged in until they log out or the session expires.
-Account Locking:         After multiple failed login attempts, the account should be temporarily locked.
-Remember Me:                 An optional "Remember Me" checkbox should allow users to stay logged in.
-Multi-Device Compatibility:      Login should work across desktops, tablets, and mobile devices.
+User Authentication: Users must log in using a valid email and password.                                                  Error Handling: Incorrect credentials must display an appropriate error message.                                    Forgot Password: A "Forgot Password" option should allow users to reset their password via email.
+Session Management: Users should remain logged in until they log out or the session expires.
+Account Locking: After multiple failed login attempts, the account should be temporarily locked.
+Remember Me: An optional "Remember Me" checkbox should allow users to stay logged in.
+Multi-Device Compatibility: Login should work across desktops, tablets, and mobile devices.
                                   
 2. UI/UX Requirements
 
